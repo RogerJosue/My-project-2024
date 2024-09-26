@@ -1,0 +1,252 @@
+* {
+    margin: 0;
+    padding: 0;
+    }
+    
+    .dada {
+        height: 250vh;
+        width: 100vw;
+        /* background-color: red; */
+    }
+    
+    .top {
+        height: 10vh;
+        width: 100vw;
+        /* background-color: black; */
+        display: flex;
+    }
+    
+    .companyL{
+        height: 100%;
+        width: 25%;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        /* background-color: chartreuse; */
+    }
+    
+    .first-image {
+        height: 60px;
+        width: 150px;
+        mix-blend-mode: multiply;
+    }
+    
+    
+    .divname {
+        width: 50%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .name{
+        margin-top: 16px; 
+        font-family: “Cormorant Garamond”;
+        font-size: 36px;
+        font-style: normal;
+         font-weight: 400; 
+        letter-spacing: 0em;
+        text-transform: none;
+        color: gray; 
+    }
+    
+    .menu{
+        /* background-color: brown; */
+        height: 100%;
+        width: 75%;
+        display: flex;
+        justify-content: space-around; 
+    }
+    
+    .R{
+        height: 100%;
+        width: 25%;
+        /* background-color: royalblue; */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .J {
+        height: 100%;
+        width: 25%;  
+        /* background-color:burlywood; */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .C{
+        height: 100%;
+        width: 25%;
+        /* background-color:cornflowerblue ; */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    
+    .second-image {
+        height: 100px;
+        width: 80px;
+    }
+    .middle {
+        height: 200vh;
+        width: 100vw;
+    }
+    
+    .title{
+    height: 30%;
+    width: 100%;
+    }
+    
+    .headers{
+        height: 55%;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    .G{
+        width: 100%;
+        height: 25%;
+        display: flex;
+        justify-content: center;
+        align-items: end;
+        margin-top: 16px; 
+        font-family: “Cormorant Garamond”;
+        font-size: 36px;
+        font-style: normal;
+         font-weight: 400; 
+        letter-spacing: 0em;
+        text-transform: none;
+        color: gray; 
+    }
+    
+    
+    
+    .A{
+        width: 100%;
+        height: 25%;
+        display: flex;
+        justify-content: center;
+        align-items: end;
+        margin-top: 16px; 
+        font-family: “Cormorant Garamond”;
+        font-size: 26px;
+        font-style: normal;
+         font-weight: 400; 
+        letter-spacing: 0em;
+        text-transform: none;
+        color: gray; 
+    }
+    
+    .quote {
+    height: 45%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    
+    }
+    
+    .box {
+        height: 70%;
+        width: 100%;
+    }
+    
+    .SPC{
+     height: 15%;
+     width:100% ;
+     background-color: blue;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+    }
+    .COA{
+        height: 85%;
+        width:100% ;
+    }
+    .control-1{
+     height: 30%;
+     width: 100%;
+     display: flex;
+     flex-direction: row;
+     justify-content: space-around;
+     align-items: center;
+    }
+    
+    
+    
+    
+    .ded {
+    height: 80%;
+    width: 30%;
+    background-color: blanchedalmond;
+    }
+    .res {
+    height: 80%;
+    width: 30%;
+    background-color: aqua;
+    }
+    .lead {
+    height: 80%;
+    width: 30%;
+    background-color: blueviolet;
+    }
+    
+    
+    .control-2{
+        height: 70%;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .control-2-2 {
+      height: 50%;
+      width: 100%;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+    }
+    .pass {
+    height: 80%;
+    width: 30%;
+    background-color: green;
+    }
+    .inno {
+    height: 80%;
+    width: 30%;
+    background-color: blueviolet;
+    }
+    .vis {
+    height: 80%;
+    width: 30%;
+    background-color: blue;
+    }
+    
+    .control-2-1 {
+      height: 50%;
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .fai {
+    height: 80%;
+    width: 30%;
+    background-color: red;
+    }
+    
+    
+    .bottom {
+        height: 25vh;
+        width: 100vw;
+        background-color: beige;
+    }
+    
+    
+    
